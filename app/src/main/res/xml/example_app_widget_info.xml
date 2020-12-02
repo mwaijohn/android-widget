@@ -5,6 +5,7 @@
     android:minWidth="110dp"
     android:minResizeWidth="40dp"
     android:resizeMode="horizontal|horizontal"
-    android:updatePeriodMillis="3600000">
+    android:updatePeriodMillis="3600000"
+    android:configure="com.example.widgettutorial.ExampleWidgetConfigFile">
 
 </appwidget-provider>
